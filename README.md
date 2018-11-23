@@ -2,7 +2,7 @@
 Sample Proof of Authority Validator Set contracts - updated for breaking changes introduced in solidity 0.5.0
 
 
-Soidity 0.50 introduced breaking changes . More on this cna be found here: https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html
+Soidity 0.50 introduced breaking changes . More on this can be found here: https://solidity.readthedocs.io/en/v0.5.0/050-breaking-changes.html
 
 All was fine and dandy until I nuked my hard drive and unknowingly downloaded 0.5.0. then the pain began... could not find any
 0.4.* version to work.
